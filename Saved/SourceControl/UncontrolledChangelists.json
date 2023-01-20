@@ -1,0 +1,36 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"E:/Projets Unreal/Labyrinthe/Content/StarterContent/Particles/P_Ambient_Dust.uasset",
+				"E:/Projets Unreal/Labyrinthe/Content/Le_Labyrinthe/Inputs/IA_Move.uasset",
+				"E:/Projets Unreal/Labyrinthe/Content/Le_Labyrinthe/Inputs/IMC_Character.uasset",
+				"E:/Projets Unreal/Labyrinthe/Content/Le_Labyrinthe/Maps/LabyrintheMap.umap",
+				"E:/Projets Unreal/Labyrinthe/Content/Le_Labyrinthe/Blueprints/AC_Labyrinthe.uasset",
+				"E:/Projets Unreal/Labyrinthe/Content/Le_Labyrinthe/Gamemode/Default.uasset",
+				"E:/Projets Unreal/Labyrinthe/Content/Le_Labyrinthe/PC_Default.uasset",
+				"E:/Projets Unreal/Labyrinthe/Content/Le_Labyrinthe/Gamemode/GM_Default.uasset",
+				"E:/Projets Unreal/Labyrinthe/Content/Le_Labyrinthe/Gamemode/PC_Default.uasset",
+				"E:/Projets Unreal/Labyrinthe/Content/Le_Labyrinthe/Game/Default.uasset",
+				"E:/Projets Unreal/Labyrinthe/Content/Le_Labyrinthe/Game/Default__Default_C.uasset",
+				"E:/Projets Unreal/Labyrinthe/Content/Le_Labyrinthe/Game/Default_C.uasset",
+				"E:/Projets Unreal/Labyrinthe/Content/Le_Labyrinthe/Game/PC_Default.uasset",
+				"E:/Projets Unreal/Labyrinthe/Content/Le_Labyrinthe/Game/GM_Default.uasset",
+				"E:/Projets Unreal/Labyrinthe/Content/Le_Labyrinthe/Inputs/IA_Mouse.uasset",
+				"E:/Projets Unreal/Labyrinthe/Content/Le_Labyrinthe/Blueprints/BP_FirstPersonCharacter.uasset",
+				"E:/Projets Unreal/Labyrinthe/Content/Le_Labyrinthe/Blueprints/AC_Detection.uasset",
+				"E:/Projets Unreal/Labyrinthe/Content/Le_Labyrinthe/Blueprints/BP_Torche.uasset",
+				"E:/Projets Unreal/Labyrinthe/Content/Le_Labyrinthe/Blueprints/Components/AC_Detection.uasset",
+				"E:/Projets Unreal/Labyrinthe/Content/Le_Labyrinthe/Inputs/InputMapping/IMC_Character.uasset",
+				"E:/Projets Unreal/Labyrinthe/Content/Le_Labyrinthe/Inputs/InputAction/IA_LineTrace.uasset",
+				"E:/Projets Unreal/Labyrinthe/Content/Le_Labyrinthe/Inputs/InputAction/IA_Move.uasset",
+				"E:/Projets Unreal/Labyrinthe/Content/Le_Labyrinthe/Inputs/InputAction/IA_Mouse.uasset",
+				"E:/Projets Unreal/Labyrinthe/Content/Le_Labyrinthe/Inputs/InputMapping/IMC_LineTrace.uasset",
+				"E:/Projets Unreal/Labyrinthe/Content/Le_Labyrinthe/Components/AC_Detection.uasset"
+			]
+		}
+	]
+}
